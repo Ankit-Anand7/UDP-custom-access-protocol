@@ -1,0 +1,200 @@
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 1
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 111111111
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFA
+Segment Number 		: 2
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 222222229
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFF9
+Segment Number 		: 3
+Length of the packet 	: 11
+Technology 		: 2
+Subscriber Number 	: 333333333
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFC
+Segment Number 		: 4
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 444444444
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 5
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 555555555
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 1
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 111111111
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFA
+Segment Number 		: 2
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 222222229
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFF9
+Segment Number 		: 3
+Length of the packet 	: 11
+Technology 		: 2
+Subscriber Number 	: 333333333
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFC
+Segment Number 		: 4
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 444444444
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 5
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 555555555
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 1
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 111111111
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFA
+Segment Number 		: 2
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 222222229
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFF9
+Segment Number 		: 3
+Length of the packet 	: 11
+Technology 		: 2
+Subscriber Number 	: 333333333
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFC
+Segment Number 		: 4
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 444444444
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 5
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 555555555
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 1
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 111111111
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFA
+Segment Number 		: 2
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 222222229
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFF9
+Segment Number 		: 3
+Length of the packet 	: 11
+Technology 		: 2
+Subscriber Number 	: 333333333
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFC
+Segment Number 		: 4
+Length of the packet 	: 11
+Technology 		: 5
+Subscriber Number 	: 444444444
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
+Response Packet:
+Start Packet ID 	: 0XFFFF
+Client ID 		: 0XFF
+Type 			: 0XFFFB
+Segment Number 		: 5
+Length of the packet 	: 11
+Technology 		: 3
+Subscriber Number 	: 555555555
+End of Packet ID 	: 0XFFFF
+---------------------------------------------------
